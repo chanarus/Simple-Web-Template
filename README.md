@@ -1,1 +1,1 @@
-"# Simple-Web-Template" 
+# Simple-Web-Template
